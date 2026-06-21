@@ -66,4 +66,3 @@ Source S3 Bucket → Lambda Trigger → Lambda Function → Destination S3 Bucke
 ## Author
 
 Priyanka Dalavi
-Aspiring AWS Cloud Engineer
