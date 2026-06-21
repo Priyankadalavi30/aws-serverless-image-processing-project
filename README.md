@@ -48,17 +48,22 @@ Source S3 Bucket → Lambda Trigger → Lambda Function → Destination S3 Bucke
 ## Screenshots
 
 ### Lambda Function
+
 ![Lambda Function](screenshots/lambda.jpeg)
 
+
 ### S3 Trigger
+
 ![S3 bucket](screenshots/input.jpeg)
 
+
+
 ### Successful Output
+
 ![Output](screenshots/output.jpeg)
 
 
 ## Author
 
-Priyanka Dalavi
 Priyanka Dalavi
 Aspiring AWS Cloud Engineer
